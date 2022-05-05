@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emtek995
+- 👋 Hi, I’m Ed Way
 - 👀 I’m interested in all things programming.
 - 🌱 I’m currently learning full stack web dev.
 - 💞️ I’m looking to collaborate on just about anything.
