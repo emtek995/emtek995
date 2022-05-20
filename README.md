@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Edward Way
+- 👋 Hi, I’m Edward Way <img src=https://www.codewars.com/users/mcwayzie/badges/micro/>
 - 👀 I’m interested in all things programming.
 - 🌱 I’m currently learning full stack web dev.
 - 💞️ I’m looking to collaborate on just about anything.
